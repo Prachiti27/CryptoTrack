@@ -55,6 +55,12 @@ env/
 *.sqlite3
 *.db
 
+# Model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
 # ---------------------------
 # Common ignores
 # ---------------------------
