@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import './navbar.css'
 import { CoinContext } from '../../Context/coinContext'
 import { Link } from 'react-router-dom'

@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from 'react'
+import { useContext, useEffect, useState } from 'react'
 import './Coin.css'
 import { useParams, useSearchParams } from 'react-router-dom'
 import {CoinContext} from '../../Context/CoinContext'

@@ -27,9 +27,9 @@ const LineChart = ({ historicalData }) => {
                     backgroundColor: 'transparent',
                     hAxis: { textStyle: { color: '#eaeaea' } },
                     vAxis: { textStyle: { color: '#eaeaea' } },
-                    colors: ['#b4aaff'], // lighter hex color for subtle line
-                    lineWidth: 2,          // thin line
-                    pointSize: 3,           // small points
+                    colors: ['#b4aaff'], 
+                    lineWidth: 2,          
+                    pointSize: 3,           
                     tooltip: { textStyle: { color: '#eaeaea' } },
                     legend: { textStyle: { color: '#eaeaea' } },
                 }}

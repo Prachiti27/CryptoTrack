@@ -117,7 +117,8 @@ FRONTEND_URL=http://127.0.0.1:5173
 
 ```
 VITE_BACKEND_URL=http://127.0.0.1:8000
-VITE_COINGECKO_API_key=https://api.coingecko.com/api/v3
+VITE_COINGECKO_API=https://api.coingecko.com/api/v3
+VITE_COINGECKO_API_KEY=your_coingecko_api_key
 ```
 
 ---
