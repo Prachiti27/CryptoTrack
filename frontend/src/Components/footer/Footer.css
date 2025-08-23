@@ -1,0 +1,20 @@
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    background: linear-gradient(135deg, #0f0f1f, #1a1a2e, #0f1a26);
+    color: #b0b0b0;
+    font-size: 14px;
+}
+
+.footer p:hover {
+    color: #ffffff;
+    transition: color 0.3s ease;
+}
+
+@media(max-width:768px) {
+    .footer {
+        font-size: 13px;
+        padding: 12px 0;
+    }
+}
